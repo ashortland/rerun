@@ -1,0 +1,3 @@
+[submodule "modules/tomcat"]
+	path = modules/tomcat
+	url = git://github.com/ashortland/rerun-tomcat.git
